@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E78AD21-C08C-4E6D-AD0E-A62F0F80AF87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FightDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c4e4ae20-d0e3-4cc1-9cb0-7425bd92114a++6261</key>
+		<string>http://192.168.1.8/repo/SuperWarriors/client</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/FightDemo/proj.ios_mac/FightDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c4e4ae20-d0e3-4cc1-9cb0-7425bd92114a++6261</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>c4e4ae20-d0e3-4cc1-9cb0-7425bd92114a++6261</key>
+		<string>http://192.168.1.8/repo/SuperWarriors</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.8/repo/SuperWarriors/client/trunk/FightDemo/proj.ios_mac/FightDemo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c4e4ae20-d0e3-4cc1-9cb0-7425bd92114a++6261</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c4e4ae20-d0e3-4cc1-9cb0-7425bd92114a++6261</string>
+			<key>IDESourceControlWCCName</key>
+			<string>client</string>
+		</dict>
+	</array>
+</dict>
+</plist>
